@@ -5,6 +5,6 @@
 
 <img src="https://github.com/NiciomaraRamalho/easy-shopping/blob/main/assets/desktop.jpg?raw=true" />
 <br>
-<imgv src="https://github.com/NiciomaraRamalho/easy-shopping/blob/main/assets/mobile.jpg?raw=true"  />
+<img src="https://github.com/NiciomaraRamalho/easy-shopping/blob/main/assets/mobile.jpg?raw=true"  />
 
 
